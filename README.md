@@ -1,10 +1,3 @@
-
-# E-commerce API
-
-An API for managing users, categories, products, and orders in an e-commerce platform. Built using Node.js, Express, and MongoDB, this API supports authentication, CRUD operations, and secure routing.
-
----
-
 # **E-commerce API**
 
 An API for managing users, categories, products, and orders in an e-commerce platform. Built using **Node.js**, **Express**, and **MongoDB**, this API supports authentication, CRUD operations, and secure routing.
