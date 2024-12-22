@@ -97,7 +97,7 @@ http://localhost:5000/api
 |--------|-------------------------|--------------------------------|
 | POST   | `/categories`           | Create a new category          |
 | GET    | `/categories`           | Retrieve all categories        |
-| DELETE | `/categories/:categoryId` | Delete a category by ID        |
+| DELETE | `/categories/:categoryId` | Delete a category by ID      |
 
 #### **3. Product Endpoints**
 
