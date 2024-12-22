@@ -1,21 +1,7 @@
-1.User Management:
-    Register a user.
-    Log in to get a token.
 
-2.Category Management (Admin only):
-    Add a category.
-    Edit a category.
-    Delete a category.
+# E-commerce API
 
-3.Product Management (Admin only):
-    Add a product (with an image).
-    Get all products.
-    Edit a product.
-    Delete a product.
-
-3.Order Management (Authenticated users):
-    Create an order.
-
+An API for managing users, categories, products, and orders in an e-commerce platform. Built using Node.js, Express, and MongoDB, this API supports authentication, CRUD operations, and secure routing.
 
 Here’s a polished version of the `README.md` file formatted with Markdown for your GitHub repository:
 
